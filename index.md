@@ -1,6 +1,14 @@
-## Welcome to my blog
+# Welcome to my blog
 
-我的博客主要用来记录自己在LeetCode上刷题的过程，记录算法思想的过程。
+我的博客主要用来记录自己在LeetCode上刷题的过程，算法思想的过程。
+
+***
+
+# LeetCode刷题日志
+
+## 数组篇
+
+* [力扣编号35：寻找搜索位置](https://mp.weixin.qq.com/s/Nd9ENyh16mxsat0WQpkqSw)
 
 ### Markdown
 
