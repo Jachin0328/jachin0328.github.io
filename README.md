@@ -7,4 +7,5 @@
 
 ## 数组篇
 * [二分查找的应用](https://mp.weixin.qq.com/s/Nd9ENyh16mxsat0WQpkqSw)
-* [滑动窗口双指针的用法]()
+* [双指针的用法]()
+* [滑动窗口的应用]()
