@@ -6,4 +6,5 @@
 # LeetCode刷题日志
 
 ## 数组篇
-* [力扣编号35：搜索插入位置-二分查找](https://mp.weixin.qq.com/s/Nd9ENyh16mxsat0WQpkqSw)
+* [二分查找的应用](https://mp.weixin.qq.com/s/Nd9ENyh16mxsat0WQpkqSw)
+* [滑动窗口双指针的用法]()
