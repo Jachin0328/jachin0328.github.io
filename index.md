@@ -9,6 +9,8 @@
 ## 数组篇
 
 * [力扣编号35：寻找搜索位置](https://mp.weixin.qq.com/s/Nd9ENyh16mxsat0WQpkqSw)
+* [力扣编号]()
+* [力扣编号]()
 
 ### Markdown
 
