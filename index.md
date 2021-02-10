@@ -9,8 +9,8 @@
 ## 数组篇
 
 * [力扣编号35：寻找搜索位置](https://mp.weixin.qq.com/s/Nd9ENyh16mxsat0WQpkqSw)
-* [力扣编号]()
-* [力扣编号]()
+* [力扣编号27: 移除元素](https://mp.weixin.qq.com/s/Ee797oQOnan4CuxW5NwDuQ)
+* [力扣编号209： 长度最小的子数组](https://mp.weixin.qq.com/s/sSJSJxa0mvS-uLsn0vA8lA)
 
 ### Markdown
 
