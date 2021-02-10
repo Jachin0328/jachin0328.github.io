@@ -1,6 +1,6 @@
 # Welcome to my blog
 
-我的博客主要用来记录自己在LeetCode上刷题的过程，算法思想的过程。
+我的博客主要用来记录自己在LeetCode上刷题的过程 :computer: ，算法思想的过程 :muscle: 。
 
 ***
 
